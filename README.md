@@ -1,8 +1,7 @@
 
 
 
-## Project 3: Web APIs & Classification 
-## Using Natural Language Processing to Identify Suicidal Post and Domestic Violence Post
+## Project 3: Web APIs & Classification - Using Natural Language Processing to Identify Suicidal Post and Domestic Violence Post
 
 
 
